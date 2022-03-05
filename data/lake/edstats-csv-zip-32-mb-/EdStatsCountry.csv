@@ -1,0 +1,242 @@
+id,Country,Full_country_name,Currency_unit,Region,Income_group
+0,Aruba,Aruba,Aruban florin,Latin America & Caribbean,High income: nonOECD
+1,Afghanistan,Islamic State of Afghanistan,Afghan afghani,South Asia,Low income
+2,Angola,People's Republic of Angola,Angolan kwanza,Sub-Saharan Africa,Upper middle income
+3,Albania,Republic of Albania,Albanian lek,Europe & Central Asia,Upper middle income
+4,Andorra,Principality of Andorra,Euro,Europe & Central Asia,High income: nonOECD
+5,Arab World,Arab World,,,
+6,United Arab Emirates,United Arab Emirates,U.A.E. dirham,Middle East & North Africa,High income: nonOECD
+7,Argentina,Argentine Republic,Argentine peso,Latin America & Caribbean,Upper middle income
+8,Armenia,Republic of Armenia,Armenian dram,Europe & Central Asia,Lower middle income
+9,American Samoa,American Samoa,U.S. dollar,East Asia & Pacific,Upper middle income
+10,Antigua and Barbuda,Antigua and Barbuda,East Caribbean dollar,Latin America & Caribbean,High income: nonOECD
+11,Australia,Commonwealth of Australia,Australian dollar,East Asia & Pacific,High income: OECD
+12,Austria,Republic of Austria,Euro,Europe & Central Asia,High income: OECD
+13,Azerbaijan,Republic of Azerbaijan,New Azeri manat,Europe & Central Asia,Upper middle income
+14,Burundi,Republic of Burundi,Burundi franc,Sub-Saharan Africa,Low income
+15,Belgium,Kingdom of Belgium,Euro,Europe & Central Asia,High income: OECD
+16,Benin,Republic of Benin,CFA franc,Sub-Saharan Africa,Low income
+17,Burkina Faso,Burkina Faso,CFA franc,Sub-Saharan Africa,Low income
+18,Bangladesh,People's Republic of Bangladesh,Bangladeshi taka,South Asia,Low income
+19,Bulgaria,Republic of Bulgaria,Bulgarian lev,Europe & Central Asia,Upper middle income
+20,Bahrain,Kingdom of Bahrain,Bahraini dinar,Middle East & North Africa,High income: nonOECD
+21,The Bahamas,Commonwealth of The Bahamas,Bahamian dollar,Latin America & Caribbean,High income: nonOECD
+22,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina convertible mark,Europe & Central Asia,Upper middle income
+23,Belarus,Republic of Belarus,Belarusian rubel,Europe & Central Asia,Upper middle income
+24,Belize,Belize,Belize dollar,Latin America & Caribbean,Upper middle income
+25,Bermuda,The Bermudas,Bermuda dollar,North America,High income: nonOECD
+26,Bolivia,Plurinational State of Bolivia,Bolivian Boliviano,Latin America & Caribbean,Lower middle income
+27,Brazil,Federative Republic of Brazil,Brazilian real,Latin America & Caribbean,Upper middle income
+28,Barbados,Barbados,Barbados dollar,Latin America & Caribbean,High income: nonOECD
+29,Brunei,Brunei Darussalam,Brunei dollar,East Asia & Pacific,High income: nonOECD
+30,Bhutan,Kingdom of Bhutan,Bhutanese ngultrum,South Asia,Lower middle income
+31,Botswana,Republic of Botswana,Botswana pula,Sub-Saharan Africa,Upper middle income
+32,Central African Republic,Central African Republic,CFA franc,Sub-Saharan Africa,Low income
+33,Canada,Canada,Canadian dollar,North America,High income: OECD
+34,Switzerland,Switzerland,Swiss franc,Europe & Central Asia,High income: OECD
+35,Channel Islands,Channel Islands,Pound sterling,Europe & Central Asia,High income: nonOECD
+36,Chile,Republic of Chile,Chilean peso,Latin America & Caribbean,High income: OECD
+37,China,People's Republic of China,Chinese yuan,East Asia & Pacific,Upper middle income
+38,Côte d'Ivoire,Republic of Côte d'Ivoire,CFA franc,Sub-Saharan Africa,Lower middle income
+39,Cameroon,Republic of Cameroon,CFA franc,Sub-Saharan Africa,Lower middle income
+40,Dem. Rep. Congo,Democratic Republic of the Congo,Congolese franc,Sub-Saharan Africa,Low income
+41,Congo,Republic of Congo,CFA franc,Sub-Saharan Africa,Lower middle income
+42,Colombia,Republic of Colombia,Colombian peso,Latin America & Caribbean,Upper middle income
+43,Comoros,Union of the Comoros,Comorian franc,Sub-Saharan Africa,Low income
+44,Cabo Verde,Republic of Cabo Verde,Cabo Verde escudo,Sub-Saharan Africa,Lower middle income
+45,Costa Rica,Republic of Costa Rica,Costa Rican colon,Latin America & Caribbean,Upper middle income
+46,Cuba,Republic of Cuba,Cuban peso,Latin America & Caribbean,Upper middle income
+47,Curaçao,Curaçao,Netherlands Antilles guilder,Latin America & Caribbean,High income: nonOECD
+48,Cayman Islands,Cayman Islands,Cayman Islands dollar,Latin America & Caribbean,High income: nonOECD
+49,Cyprus,Republic of Cyprus,Euro,Europe & Central Asia,High income: nonOECD
+50,Czech Republic,Czech Republic,Czech koruna,Europe & Central Asia,High income: OECD
+51,Germany,Federal Republic of Germany,Euro,Europe & Central Asia,High income: OECD
+52,Djibouti,Republic of Djibouti,Djibouti franc,Middle East & North Africa,Lower middle income
+53,Dominica,Commonwealth of Dominica,East Caribbean dollar,Latin America & Caribbean,Upper middle income
+54,Denmark,Kingdom of Denmark,Danish krone,Europe & Central Asia,High income: OECD
+55,Dominican Republic,Dominican Republic,Dominican peso,Latin America & Caribbean,Upper middle income
+56,Algeria,People's Democratic Republic of Algeria,Algerian dinar,Middle East & North Africa,Upper middle income
+57,East Asia & Pacific (developing only),East Asia & Pacific (developing only),,,
+58,East Asia & Pacific (all income levels),East Asia & Pacific (all income levels),,,
+59,Europe & Central Asia (developing only),Europe & Central Asia (developing only),,,
+60,Europe & Central Asia (all income levels),Europe & Central Asia (all income levels),,,
+61,Ecuador,Republic of Ecuador,U.S. dollar,Latin America & Caribbean,Upper middle income
+62,Egypt,Arab Republic of Egypt,Egyptian pound,Middle East & North Africa,Lower middle income
+63,Euro area,Euro area,,,
+64,Eritrea,State of Eritrea,Eritrean nakfa,Sub-Saharan Africa,Low income
+65,Spain,Kingdom of Spain,Euro,Europe & Central Asia,High income: OECD
+66,Estonia,Republic of Estonia,Euro,Europe & Central Asia,High income: OECD
+67,Ethiopia,Federal Democratic Republic of Ethiopia,Ethiopian birr,Sub-Saharan Africa,Low income
+68,European Union,European Union,,,
+69,Finland,Republic of Finland,Euro,Europe & Central Asia,High income: OECD
+70,Fiji,Republic of Fiji,Fijian dollar,East Asia & Pacific,Upper middle income
+71,France,French Republic,Euro,Europe & Central Asia,High income: OECD
+72,Faeroe Islands,Faeroe Islands,Danish krone,Europe & Central Asia,High income: nonOECD
+73,Micronesia,Federated States of Micronesia,U.S. dollar,East Asia & Pacific,Lower middle income
+74,Gabon,Gabonese Republic,CFA franc,Sub-Saharan Africa,Upper middle income
+75,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Pound sterling,Europe & Central Asia,High income: OECD
+76,Georgia,Georgia,Georgian lari,Europe & Central Asia,Lower middle income
+77,Ghana,Republic of Ghana,New Ghanaian cedi,Sub-Saharan Africa,Lower middle income
+78,Gibraltar,Gibraltar,Gibraltar pound,,
+79,Guinea,Republic of Guinea,Guinean franc,Sub-Saharan Africa,Low income
+80,The Gambia,Republic of The Gambia,Gambian dalasi,Sub-Saharan Africa,Low income
+81,Guinea-Bissau,Republic of Guinea-Bissau,CFA franc,Sub-Saharan Africa,Low income
+82,Equatorial Guinea,Republic of Equatorial Guinea,CFA franc,Sub-Saharan Africa,High income: nonOECD
+83,Greece,Hellenic Republic,Euro,Europe & Central Asia,High income: OECD
+84,Grenada,Grenada,East Caribbean dollar,Latin America & Caribbean,Upper middle income
+85,Greenland,Greenland,Danish krone,Europe & Central Asia,High income: nonOECD
+86,Guatemala,Republic of Guatemala,Guatemalan quetzal,Latin America & Caribbean,Lower middle income
+87,Guam,Guam,U.S. dollar,East Asia & Pacific,High income: nonOECD
+88,Guyana,Co-operative Republic of Guyana,Guyana dollar,Latin America & Caribbean,Lower middle income
+89,High income,High income,,,
+90,"Hong Kong SAR, China",Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong dollar,East Asia & Pacific,High income: nonOECD
+91,Honduras,Republic of Honduras,Honduran lempira,Latin America & Caribbean,Lower middle income
+92,Heavily indebted poor countries (HIPC),Heavily indebted poor countries (HIPC),,,
+93,Croatia,Republic of Croatia,Croatian kuna,Europe & Central Asia,High income: nonOECD
+94,Haiti,Republic of Haiti,Haitian gourde,Latin America & Caribbean,Low income
+95,Hungary,Hungary,Hungarian forint,Europe & Central Asia,Upper middle income
+96,Indonesia,Republic of Indonesia,Indonesian rupiah,East Asia & Pacific,Lower middle income
+97,Isle of Man,Isle of Man,Pound sterling,Europe & Central Asia,High income: nonOECD
+98,India,Republic of India,Indian rupee,South Asia,Lower middle income
+99,Ireland,Ireland,Euro,Europe & Central Asia,High income: OECD
+100,Iran,Islamic Republic of Iran,Iranian rial,Middle East & North Africa,Upper middle income
+101,Iraq,Republic of Iraq,Iraqi dinar,Middle East & North Africa,Upper middle income
+102,Iceland,Republic of Iceland,Iceland krona,Europe & Central Asia,High income: OECD
+103,Israel,State of Israel,Israeli new shekel,Middle East & North Africa,High income: OECD
+104,Italy,Italian Republic,Euro,Europe & Central Asia,High income: OECD
+105,Jamaica,Jamaica,Jamaican dollar,Latin America & Caribbean,Upper middle income
+106,Jordan,Hashemite Kingdom of Jordan,Jordanian dinar,Middle East & North Africa,Upper middle income
+107,Japan,Japan,Japanese yen,East Asia & Pacific,High income: OECD
+108,Kazakhstan,Republic of Kazakhstan,Kazakh tenge,Europe & Central Asia,Upper middle income
+109,Kenya,Republic of Kenya,Kenyan shilling,Sub-Saharan Africa,Low income
+110,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz som,Europe & Central Asia,Lower middle income
+111,Cambodia,Kingdom of Cambodia,Cambodian riel,East Asia & Pacific,Low income
+112,Kiribati,Republic of Kiribati,Australian dollar,East Asia & Pacific,Lower middle income
+113,St. Kitts and Nevis,St. Kitts and Nevis,East Caribbean dollar,Latin America & Caribbean,High income: nonOECD
+114,Korea,Republic of Korea,Korean won,East Asia & Pacific,High income: OECD
+115,Kuwait,State of Kuwait,Kuwaiti dinar,Middle East & North Africa,High income: nonOECD
+116,Latin America & Caribbean (developing only),Latin America & Caribbean (developing only),,,
+117,Lao PDR,Lao People's Democratic Republic,Lao kip,East Asia & Pacific,Lower middle income
+118,Lebanon,Lebanese Republic,Lebanese pound,Middle East & North Africa,Upper middle income
+119,Liberia,Republic of Liberia,Liberian dollar,Sub-Saharan Africa,Low income
+120,Libya,Socialist People's Libyan Arab Jamahiriya,Libyan dinar,Middle East & North Africa,Upper middle income
+121,St. Lucia,St. Lucia,East Caribbean dollar,Latin America & Caribbean,Upper middle income
+122,Latin America & Caribbean (all income levels),Latin America & Caribbean (all income levels),,,
+123,Least developed countries: UN classification,Least developed countries: UN classification,,,
+124,Low income,Low income,,,
+125,Liechtenstein,Principality of Liechtenstein,Swiss franc,Europe & Central Asia,High income: nonOECD
+126,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lankan rupee,South Asia,Lower middle income
+127,Lower middle income,Lower middle income,,,
+128,Low & middle income,Low & middle income,,,
+129,Lesotho,Kingdom of Lesotho,Lesotho loti,Sub-Saharan Africa,Lower middle income
+130,Lithuania,Republic of Lithuania,Lithuanian litas,Europe & Central Asia,High income: nonOECD
+131,Luxembourg,Grand Duchy of Luxembourg,Euro,Europe & Central Asia,High income: OECD
+132,Latvia,Republic of Latvia,Latvian lats,Europe & Central Asia,High income: nonOECD
+133,"Macao SAR, China",Macao Special Administrative Region of the People's Republic of China,Macao pataca,East Asia & Pacific,High income: nonOECD
+134,St. Martin (French part),St. Martin (French part),Euro,Latin America & Caribbean,High income: nonOECD
+135,Morocco,Kingdom of Morocco,Moroccan dirham,Middle East & North Africa,Lower middle income
+136,Monaco,Principality of Monaco,Euro,Europe & Central Asia,High income: nonOECD
+137,Moldova,Republic of Moldova,Moldovan leu,Europe & Central Asia,Lower middle income
+138,Madagascar,Republic of Madagascar,Malagasy ariary,Sub-Saharan Africa,Low income
+139,Maldives,Republic of Maldives,Maldivian rufiyaa,South Asia,Upper middle income
+140,Middle East & North Africa (all income levels),Middle East & North Africa (all income levels),,,
+141,Mexico,United Mexican States,Mexican peso,Latin America & Caribbean,Upper middle income
+142,Marshall Islands,Republic of the Marshall Islands,U.S. dollar,East Asia & Pacific,Upper middle income
+143,Middle income,Middle income,,,
+144,Macedonia,Former Yugoslav Republic of Macedonia,Macedonian denar,Europe & Central Asia,Upper middle income
+145,Mali,Republic of Mali,CFA franc,Sub-Saharan Africa,Low income
+146,Malta,Republic of Malta,Euro,Middle East & North Africa,High income: nonOECD
+147,Myanmar,Republic of the Union of Myanmar,Myanmar kyat,East Asia & Pacific,Low income
+148,Middle East & North Africa (developing only),Middle East & North Africa (developing only),,,
+149,Montenegro,Montenegro,Euro,Europe & Central Asia,Upper middle income
+150,Mongolia,Mongolia,Mongolian tugrik,East Asia & Pacific,Lower middle income
+151,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,U.S. dollar,East Asia & Pacific,High income: nonOECD
+152,Mozambique,Republic of Mozambique,New Mozambican metical,Sub-Saharan Africa,Low income
+153,Mauritania,Islamic Republic of Mauritania,Mauritanian ouguiya,Sub-Saharan Africa,Lower middle income
+154,Mauritius,Republic of Mauritius,Mauritian rupee,Sub-Saharan Africa,Upper middle income
+155,Malawi,Republic of Malawi,Malawi kwacha,Sub-Saharan Africa,Low income
+156,Malaysia,Malaysia,Malaysian ringgit,East Asia & Pacific,Upper middle income
+157,North America,North America,,,
+158,Namibia,Republic of Namibia,Namibian dollar,Sub-Saharan Africa,Upper middle income
+159,New Caledonia,New Caledonia,CFP franc,East Asia & Pacific,High income: nonOECD
+160,Niger,Republic of Niger,CFA franc,Sub-Saharan Africa,Low income
+161,Nigeria,Federal Republic of Nigeria,Nigerian naira,Sub-Saharan Africa,Lower middle income
+162,Nicaragua,Republic of Nicaragua,Nicaraguan gold cordoba,Latin America & Caribbean,Lower middle income
+163,Netherlands,Kingdom of the Netherlands,Euro,Europe & Central Asia,High income: OECD
+164,Norway,Kingdom of Norway,Norwegian krone,Europe & Central Asia,High income: OECD
+165,Nepal,Nepal,Nepalese rupee,South Asia,Low income
+166,Nauru,Nauru,,,
+167,New Zealand,New Zealand,New Zealand dollar,East Asia & Pacific,High income: OECD
+168,OECD members,OECD members,,,
+169,Oman,Sultanate of Oman,Rial Omani,Middle East & North Africa,High income: nonOECD
+170,Pakistan,Islamic Republic of Pakistan,Pakistani rupee,South Asia,Lower middle income
+171,Panama,Republic of Panama,Panamanian balboa,Latin America & Caribbean,Upper middle income
+172,Peru,Republic of Peru,Peruvian new sol,Latin America & Caribbean,Upper middle income
+173,Philippines,Republic of the Philippines,Philippine peso,East Asia & Pacific,Lower middle income
+174,Palau,Republic of Palau,U.S. dollar,East Asia & Pacific,Upper middle income
+175,Papua New Guinea,The Independent State of Papua New Guinea,Papua New Guinea kina,East Asia & Pacific,Lower middle income
+176,Poland,Republic of Poland,Polish zloty,Europe & Central Asia,High income: OECD
+177,Puerto Rico,Puerto Rico,U.S. dollar,Latin America & Caribbean,High income: nonOECD
+178,Dem. People's Rep. Korea,Democratic People's Republic of Korea,Democratic People's Republic of Korean won,East Asia & Pacific,Low income
+179,Portugal,Portuguese Republic,Euro,Europe & Central Asia,High income: OECD
+180,Paraguay,Republic of Paraguay,Paraguayan guarani,Latin America & Caribbean,Lower middle income
+181,West Bank and Gaza,West Bank and Gaza,Israeli new shekel,Middle East & North Africa,Lower middle income
+182,French Polynesia,French Polynesia,CFP franc,East Asia & Pacific,High income: nonOECD
+183,Qatar,State of Qatar,Qatari riyal,Middle East & North Africa,High income: nonOECD
+184,Romania,Romania,New Romanian leu,Europe & Central Asia,Upper middle income
+185,Russia,Russian Federation,Russian ruble,Europe & Central Asia,High income: nonOECD
+186,Rwanda,Republic of Rwanda,Rwandan franc,Sub-Saharan Africa,Low income
+187,South Asia,South Asia,,,
+188,Saudi Arabia,Kingdom of Saudi Arabia,Saudi Arabian riyal,Middle East & North Africa,High income: nonOECD
+189,Sudan,Republic of the Sudan,Sudanese pound,Sub-Saharan Africa,Lower middle income
+190,Senegal,Republic of Senegal,CFA franc,Sub-Saharan Africa,Lower middle income
+191,Singapore,Republic of Singapore,Singapore dollar,East Asia & Pacific,High income: nonOECD
+192,Solomon Islands,Solomon Islands,Solomon Islands dollar,East Asia & Pacific,Lower middle income
+193,Sierra Leone,Republic of Sierra Leone,Sierra Leonean leone,Sub-Saharan Africa,Low income
+194,El Salvador,Republic of El Salvador,U.S. dollar,Latin America & Caribbean,Lower middle income
+195,San Marino,Republic of San Marino,Euro,Europe & Central Asia,High income: nonOECD
+196,Somalia,Somali Democratic Republic,Somali shilling,Sub-Saharan Africa,Low income
+197,Serbia,Republic of Serbia,New Serbian dinar,Europe & Central Asia,Upper middle income
+198,Sub-Saharan Africa (developing only),Sub-Saharan Africa (developing only),,,
+199,South Sudan,Republic of South Sudan,South Sudanese Pound,Sub-Saharan Africa,Lower middle income
+200,Sub-Saharan Africa (all income levels),Sub-Saharan Africa (all income levels),,,
+201,São Tomé and Principe,Democratic Republic of São Tomé and Principe,São Tomé and Principe dobra,Sub-Saharan Africa,Lower middle income
+202,Suriname,Republic of Suriname,Suriname dollar,Latin America & Caribbean,Upper middle income
+203,Slovak Republic,Slovak Republic,Euro,Europe & Central Asia,High income: OECD
+204,Slovenia,Republic of Slovenia,Euro,Europe & Central Asia,High income: OECD
+205,Sweden,Kingdom of Sweden,Swedish krona,Europe & Central Asia,High income: OECD
+206,Swaziland,Kingdom of Swaziland,Swaziland lilangeni,Sub-Saharan Africa,Lower middle income
+207,Sint Maarten (Dutch part),Sint Maarten (Dutch part),Netherlands Antilles guilder,Latin America & Caribbean,High income: nonOECD
+208,Seychelles,Republic of Seychelles,Seychelles rupee,Sub-Saharan Africa,Upper middle income
+209,Syrian Arab Republic,Syrian Arab Republic,Syrian pound,Middle East & North Africa,Lower middle income
+210,Turks and Caicos Islands,Turks and Caicos Islands,U.S. dollar,Latin America & Caribbean,High income: nonOECD
+211,Chad,Republic of Chad,CFA franc,Sub-Saharan Africa,Low income
+212,Togo,Republic of Togo,CFA franc,Sub-Saharan Africa,Low income
+213,Thailand,Kingdom of Thailand,Thai baht,East Asia & Pacific,Upper middle income
+214,Tajikistan,Republic of Tajikistan,Tajik somoni,Europe & Central Asia,Low income
+215,Turkmenistan,Turkmenistan,New Turkmen manat,Europe & Central Asia,Upper middle income
+216,Timor-Leste,Democratic Republic of Timor-Leste,U.S. dollar,East Asia & Pacific,Lower middle income
+217,Tonga,Kingdom of Tonga,Tongan pa'anga,East Asia & Pacific,Upper middle income
+218,Trinidad and Tobago,Republic of Trinidad and Tobago,Trinidad and Tobago dollar,Latin America & Caribbean,High income: nonOECD
+219,Tunisia,Republic of Tunisia,Tunisian dinar,Middle East & North Africa,Upper middle income
+220,Turkey,Republic of Turkey,New Turkish lira,Europe & Central Asia,Upper middle income
+221,Tuvalu,Tuvalu,Australian dollar,East Asia & Pacific,Upper middle income
+222,Tanzania,United Republic of Tanzania,Tanzanian shilling,Sub-Saharan Africa,Low income
+223,Uganda,Republic of Uganda,Ugandan shilling,Sub-Saharan Africa,Low income
+224,Ukraine,Ukraine,Ukrainian hryvnia,Europe & Central Asia,Lower middle income
+225,Upper middle income,Upper middle income,,,
+226,Uruguay,Oriental Republic of Uruguay,Uruguayan peso,Latin America & Caribbean,High income: nonOECD
+227,United States,United States of America,U.S. dollar,North America,High income: OECD
+228,Uzbekistan,Republic of Uzbekistan,Uzbek sum,Europe & Central Asia,Lower middle income
+229,St. Vincent and the Grenadines,St. Vincent and the Grenadines,East Caribbean dollar,Latin America & Caribbean,Upper middle income
+230,Venezuela,República Bolivariana de Venezuela,Venezuelan bolivar fuerte,Latin America & Caribbean,Upper middle income
+231,Virgin Islands,Virgin Islands of the United States,U.S. dollar,Latin America & Caribbean,High income: nonOECD
+232,Vietnam,Socialist Republic of Vietnam,Vietnamese dong,East Asia & Pacific,Lower middle income
+233,Vanuatu,Republic of Vanuatu,Vanuatu vatu,East Asia & Pacific,Lower middle income
+234,World,World,,,
+235,Samoa,Samoa,Samoan tala,East Asia & Pacific,Lower middle income
+236,Kosovo,Republic of Kosovo,Euro,Europe & Central Asia,Lower middle income
+237,Yemen,Republic of Yemen,Yemeni rial,Middle East & North Africa,Lower middle income
+238,South Africa,Republic of South Africa,South African rand,Sub-Saharan Africa,Upper middle income
+239,Zambia,Republic of Zambia,New Zambian kwacha,Sub-Saharan Africa,Lower middle income
+240,Zimbabwe,Republic of Zimbabwe,U.S. dollar,Sub-Saharan Africa,Low income
