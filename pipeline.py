@@ -31,11 +31,11 @@ def run_pipeline():
     processors.join_data(gdp_file_path, mobile_stats_file_path, countries_categories_file_path, conf.PROCESSED_FOLDER_PATH)
 
     # load data into dimension tables
+    load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'regions.csv'), 'region')
+    load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'income_groups.csv'), 'income_group')
     load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'countries.csv'), 'country')
     load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'years.csv'), 'year')
     load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'currencies.csv'), 'currency')
-    load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'regions.csv'), 'region')
-    load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'income_groups.csv'), 'income_group')
 
     # load data into fact table
     load_csv_into_postgres(os.path.join(conf.PROCESSED_FOLDER_PATH, 'facts.csv'), 'fact')

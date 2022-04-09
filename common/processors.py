@@ -79,7 +79,6 @@ def preprocess_ed_stats_countries(file_path: str):
 
 def join_data(gdp_file_path: str, mobile_file_path: str, countries_categories_file_path: str,
               processed_folder_path: str):
-
     print('Start processing and merging all data together')
 
     gdp = pd.read_csv(gdp_file_path).drop(columns=['id'])
@@ -90,52 +89,58 @@ def join_data(gdp_file_path: str, mobile_file_path: str, countries_categories_fi
     df_computed = df_computed.merge(gdp, how='outer', on=['Country', 'Year'])
 
     # country table
-    country_table = pd.DataFrame(df_computed[['Country', 'Code', 'Full_country_name']]) \
+    country_table = pd.DataFrame(df_computed[['Country', 'Code', 'Full_country_name', 'Region', 'Income_group']]) \
         .drop_duplicates(subset=['Country']) \
         .reset_index() \
         .drop(columns=['index'])
 
     # year table
-    year_table = pd.DataFrame(df_computed['Year'], columns=['Year'])\
-        .drop_duplicates(subset=['Year'])\
-        .dropna()\
-        .reset_index()\
+    year_table = pd.DataFrame(df_computed['Year'], columns=['Year']) \
+        .drop_duplicates(subset=['Year']) \
+        .dropna() \
+        .reset_index() \
         .drop(columns=['index'])
 
     year_table['Year'] = year_table['Year'].astype(int)
     year_table['Century'] = year_table['Year'] // 100
 
     # currency table
-    currency_table = pd.DataFrame(df_computed['Currency_unit'])\
-        .drop_duplicates()\
-        .reset_index()\
-        .drop(columns=['index'])\
+    currency_table = pd.DataFrame(df_computed['Currency_unit']) \
+        .drop_duplicates() \
+        .reset_index() \
+        .drop(columns=['index']) \
         .dropna()
 
     # region table
-    region_table = pd.DataFrame(df_computed['Region'])\
-        .drop_duplicates()\
-        .reset_index()\
-        .drop(columns=['index'])\
+    region_table = pd.DataFrame(df_computed['Region']) \
+        .drop_duplicates() \
+        .reset_index() \
+        .drop(columns=['index']) \
         .dropna()
 
     # income group table
-    income_group_table = pd.DataFrame(df_computed['Income_group'])\
-        .drop_duplicates()\
-        .reset_index()\
-        .drop(columns=['index'])\
+    income_group_table = pd.DataFrame(df_computed['Income_group']) \
+        .drop_duplicates() \
+        .reset_index() \
+        .drop(columns=['index']) \
         .dropna()
 
     fact_table = df_computed
 
-    fact_table['Region'] = fact_table['Region'].apply(
+    country_table['Region'] = country_table['Region'].apply(
         lambda reg: reg if pd.isna(reg) else region_table.index[region_table['Region'] == reg][0]
+    )
+
+    country_table['Income_group'] = country_table['Income_group'].apply(
+        lambda income: income if pd.isna(income) else
+        income_group_table.index[income_group_table['Income_group'] == income][0]
     )
 
     fact_table['Country'] = fact_table['Country'].apply(
         lambda country: country if pd.isna(country) else country_table.index[country_table['Country'] == country][0]
     )
-    fact_table = fact_table.drop(columns=['Code', 'Full_country_name'])
+
+    fact_table = fact_table.drop(columns=['Code', 'Full_country_name', 'Income_group', 'Region'])
 
     fact_table['Year'] = fact_table['Year'].apply(
         lambda year: year if pd.isna(year) else year_table.index[year_table['Year'] == year][0]
@@ -144,11 +149,6 @@ def join_data(gdp_file_path: str, mobile_file_path: str, countries_categories_fi
     fact_table['Currency_unit'] = fact_table['Currency_unit'].apply(
         lambda currency: currency if pd.isna(currency) else
         currency_table.index[currency_table['Currency_unit'] == currency][0]
-    )
-
-    fact_table['Income_group'] = fact_table['Income_group'].apply(
-        lambda income: income if pd.isna(income) else
-        income_group_table.index[income_group_table['Income_group'] == income][0]
     )
 
     country_table.to_csv(os.path.join(processed_folder_path, 'countries.csv'), index=True, index_label='id')
